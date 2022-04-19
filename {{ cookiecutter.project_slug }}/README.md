@@ -15,7 +15,7 @@ Aprende a crear tu propia plantilla personalizada utilizando cookiecutter.
     Esto puede ser instalado con `pip` o `conda` dependiendo cómo tú manejas tus paquetes de Python:
 
 ``` bash
-pip install cookiecutter
+pip install cookiecutter 565655656
 ```
 
 o
