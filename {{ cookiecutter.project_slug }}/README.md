@@ -5,7 +5,6 @@
 <br>
 <p align='center'>
 
-
 ## Abstract
 
 ## Introductión
@@ -26,4 +25,4 @@
 
 ---
 
-This notebook was made by [@martinfarrera](https://twitter.com/MartinFarrera_), contact me [Linkedin](https://www.linkedin.com/in/martinfarrera/).
+This repositorie was made by [@martinfarrera](https://twitter.com/MartinFarrera_), contact me [Linkedin](https://www.linkedin.com/in/martinfarrera/).
