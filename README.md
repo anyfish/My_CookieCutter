@@ -5,8 +5,6 @@
 <br>
 <p align='center'>
 
-# Name Project
-
 
 ## Abstract
 
@@ -16,7 +14,7 @@
 
 ## Data
 
-# Model
+## Model
 
 ## Result & Discussion
 
@@ -28,4 +26,4 @@
 
 ---
 
-This notebook was made by [@martinfarrera](https://twitter.com/MartinFarrera_), contac me [Linkedin](https://www.linkedin.com/in/martinfarrera/).
+This notebook was made by [@martinfarrera](https://twitter.com/MartinFarrera_), contact me [Linkedin](https://www.linkedin.com/in/martinfarrera/).
