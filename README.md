@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/anyfish"><img src = "https://ibb.co/d6Sxy68" width = 100> </a>
+<a href="https://github.com/anyfish"><img src="https://i.ibb.co/zb1Dwbq/logo-mafl.png" alt="logo-mafl" border="0" width = 200> </a>
 </p>
 <h1 align=center><font size = 5>Name Of<br>The Project</font></h1>
 <br>
