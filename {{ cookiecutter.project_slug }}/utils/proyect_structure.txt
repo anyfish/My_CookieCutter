@@ -1,0 +1,27 @@
+## Estructura de directorios y archivos resultantes
+
+    {{ cookiecutter.project_slug }}
+        ├── data
+        │   ├── enrichment          <- External sources added to the data set.    
+        │   ├── processed           <- The final, canonical data sets for modeling.
+        │   └── raw                 <- The original, immutable data dump.
+        │
+        │
+        ├── models
+        │   └── notebooks           <- Jupyter notebooks. Naming convention is a number (for ordering),
+        │                              the creator's initials, and a short `-` delimited description, e.g.
+        │                              `1.0-jvelezmagic-initial-data-exploration`.
+        │
+        ├── utils
+        │   ├── project_final       <- Functional summary of the project.  
+        │   ├── project_structure   <- Organization of folders and files.
+        │   └── visualization       <- Graphs of the relevant results.
+        │
+        │
+        ├── .gitignore              <- Files to ignore by `git`.
+        │
+        │
+        ├── environment.yml         <- The requirements file for reproducing the analysis environment.
+        │
+        │
+        └── README.md               <- The top-level README for developers using this project.
