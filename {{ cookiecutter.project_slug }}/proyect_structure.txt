@@ -1,4 +1,4 @@
-## Estructura de directorios y archivos resultantes
+## Structure of directories and resulting files
 
     {{ cookiecutter.project_slug }}
         ├── data

@@ -1,4 +1,3 @@
-import os
 import subprocess
 
 MESSAGE_COLOR = "\x1b[34m"
