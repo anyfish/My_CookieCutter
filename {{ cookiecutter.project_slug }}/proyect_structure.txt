@@ -2,7 +2,7 @@
 
     {{ cookiecutter.project_slug }}
         ├── data
-        │   ├── enrichment          <- External sources added to the data set.    
+        │   ├── external          <- External sources added to the data set.    
         │   ├── processed           <- The final, canonical data sets for modeling.
         │   └── raw                 <- The original, immutable data dump.
         │

@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/anyfish"><img src="https://i.ibb.co/zb1Dwbq/logo-mafl.png" alt="logo-mafl" border="0" width = 200> </a>
+<a href="https://github.com/anyfish"><img src="https://i.ibb.co/HDt0TSb/anyfish-logo.png" alt="logo-mafl" border="0" width = 200> </a>
 </p>
 <h1 align=center><font size = 5>Cookiecutter template for<br>custom work environments for analysis.</font></h1>
 <br>
@@ -20,7 +20,7 @@
 
     {{ cookiecutter.project_slug }}
         ├── data
-        │   ├── enrichment          <- External sources added to the data set.    
+        │   ├── external          <- External sources added to the data set.    
         │   ├── processed           <- The final, canonical data sets for modeling.
         │   └── raw                 <- The original, immutable data dump.
         │

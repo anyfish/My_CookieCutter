@@ -1,8 +1,17 @@
 # conda env create --file environment.yml
-name: cookiecutter-personal-platzi
+name: final_project
 channels:
   - anaconda
   - conda-forge
   - defaults
 dependencies:
   - cookiecutter
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - plotly
+  - numpy
+  - pandas
+  - pip
+  - python=3.9

@@ -6,3 +6,7 @@ channels:
   - defaults
 dependencies:
   - cookiecutter
+  - jupyter
+  - jupyterlab
+  - pip
+  - python=3.9
